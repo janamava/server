@@ -1,22 +1,18 @@
 {
     "tasks": [
         {
-            "id": 1,
             "description": "Wake up",
             "status": false
         },
         {
-            "id": 2,
             "description": "Greet the sun",
             "status": false
         },
         {
-            "id": 3,
             "description": "Plant a tree",
             "status": false
         },
         {
-            "id": 4,
             "description": "Hug a child",
             "status": false
         }
