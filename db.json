@@ -23,10 +23,5 @@
         "id": 5,
         "description": "Shake a hand",
         "status": false
-    },
-    {
-        "id": 6,
-        "description": "Smile",
-        "status": false
     }
 ]
