@@ -18,10 +18,5 @@
         "id": 4,
         "description": "Hug a child",
         "status": false
-    },
-    {
-        "id": 5,
-        "description": "Shake a hand",
-        "status": false
     }
 ]
